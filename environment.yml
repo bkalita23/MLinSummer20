@@ -5,8 +5,6 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
-  - sklearn
-  - time
-  - warnings
-  - itertools
+  - scikit-learn
+  - scipy
   
