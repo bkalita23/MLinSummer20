@@ -7,6 +7,6 @@ dependencies:
   - pandas
   - sklearn
   - time
-  - warning
-  -
+  - warnings
+  - itertools
   
